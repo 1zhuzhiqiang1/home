@@ -1,0 +1,15 @@
+body {
+    margin: 0!important;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+.router-link-exact-active{
+    color: white!important;
+}
+
+.router-link-active{
+    color: white!important;
+}
